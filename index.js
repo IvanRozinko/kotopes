@@ -9,6 +9,7 @@ const server = http.createServer((req, res) => {
     <h1>Node.js працює на app.kotopes.kr.ua!</h1>
     <p>Socket: ${process.env.PORT}</p>
     <p>Node: ${process.version}</p>
+    <p>Additional information here</p>
   `);
 });
 
