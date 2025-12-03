@@ -1,8 +1,22 @@
 {
-    "name": "test-node-app",
-    "version": "1.0.0",
-    "scripts": {
-      "start": "node index.js"
-    }
+  "name": "kotopes",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "concurrently \"npm start\" \"cd client && npm run dev\"",
+    "build": "cd client && npm run build",
+    "build:prod": "npm run build && npm start",
+    "images:optimize": "node scripts/optimize-images.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.4",
+    "express": "^4.22.0",
+    "cors": "^2.8.5",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "canvas": "^3.2.0",
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1"
   }
-  
+}

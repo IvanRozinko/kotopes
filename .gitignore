@@ -1,3 +1,11 @@
+node_modules/
+dist/
+client/node_modules/
+server/node_modules/
+public/images/optimized/
+*.log
+package-lock.json
+# Note: client/dist/ is intentionally NOT ignored - it's deployed with repo to production servers
 # Logs
 logs
 *.log

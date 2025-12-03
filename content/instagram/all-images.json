@@ -1,0 +1,179 @@
+[
+  {
+    "filename": "cover_dogs.jpg",
+    "category": "cover",
+    "title": "Kotopes Hotel Cover - Happy Dogs",
+    "description": "Welcome to Kotopes pet hotel",
+    "tags": [
+      "hotel",
+      "dogs",
+      "cover",
+      "banner"
+    ],
+    "source": "Generated (Kotopes Brand)",
+    "date_collected": "2025-12-02",
+    "alt_text": "Welcome to Kotopes pet hotel",
+    "file_size": "35.88 KB",
+    "format": "JPEG",
+    "dimensions": "1080x1080"
+  },
+  {
+    "filename": "animals_dogs_playing.jpg",
+    "category": "animals",
+    "title": "Dogs - Playing & Socializing",
+    "description": "Dogs having fun and socializing",
+    "tags": [
+      "dogs",
+      "animals",
+      "play",
+      "happy"
+    ],
+    "source": "Generated (Kotopes Brand)",
+    "date_collected": "2025-12-02",
+    "alt_text": "Dogs having fun and socializing",
+    "file_size": "30.46 KB",
+    "format": "JPEG",
+    "dimensions": "1080x1080"
+  },
+  {
+    "filename": "animals_cats.jpg",
+    "category": "animals",
+    "title": "Cats - Comfortable Care",
+    "description": "Comfortable accommodations for cats",
+    "tags": [
+      "cats",
+      "animals",
+      "comfort"
+    ],
+    "source": "Generated (Kotopes Brand)",
+    "date_collected": "2025-12-02",
+    "alt_text": "Comfortable accommodations for cats",
+    "file_size": "28.98 KB",
+    "format": "JPEG",
+    "dimensions": "1080x1080"
+  },
+  {
+    "filename": "facilities_room.jpg",
+    "category": "facilities",
+    "title": "Pet Rooms - Spacious & Clean",
+    "description": "Spacious and comfortable pet rooms",
+    "tags": [
+      "facilities",
+      "rooms",
+      "comfort",
+      "clean"
+    ],
+    "source": "Generated (Kotopes Brand)",
+    "date_collected": "2025-12-02",
+    "alt_text": "Spacious and comfortable pet rooms",
+    "file_size": "32.15 KB",
+    "format": "JPEG",
+    "dimensions": "1080x1080"
+  },
+  {
+    "filename": "facilities_outdoor.jpg",
+    "category": "facilities",
+    "title": "Outdoor Area - Fresh Air & Nature",
+    "description": "Green outdoor space for pets",
+    "tags": [
+      "facilities",
+      "outdoor",
+      "nature"
+    ],
+    "source": "Generated (Kotopes Brand)",
+    "date_collected": "2025-12-02",
+    "alt_text": "Green outdoor space for pets",
+    "file_size": "33.47 KB",
+    "format": "JPEG",
+    "dimensions": "1080x1080"
+  },
+  {
+    "filename": "lifestyle_care.jpg",
+    "category": "lifestyle",
+    "title": "Professional - Pet Care Services",
+    "description": "Expert care for your beloved pets",
+    "tags": [
+      "care",
+      "lifestyle",
+      "professional",
+      "health"
+    ],
+    "source": "Generated (Kotopes Brand)",
+    "date_collected": "2025-12-02",
+    "alt_text": "Expert care for your beloved pets",
+    "file_size": "33.36 KB",
+    "format": "JPEG",
+    "dimensions": "1080x1080"
+  },
+  {
+    "filename": "testimonials_happy_pet.jpg",
+    "category": "testimonials",
+    "title": "Happy Pets - Customer Reviews",
+    "description": "Satisfied customers and their happy pets",
+    "tags": [
+      "testimonials",
+      "review",
+      "happy",
+      "customer"
+    ],
+    "source": "Generated (Kotopes Brand)",
+    "date_collected": "2025-12-02",
+    "alt_text": "Satisfied customers and their happy pets",
+    "file_size": "33.43 KB",
+    "format": "JPEG",
+    "dimensions": "1080x1080"
+  }
+  ,
+  {
+    "filename": "527399943_18287774359251333_7106619665750548904_n.webp",
+    "category": "animals",
+    "title": "527399943_18287774359251333_7106619665750548904_n",
+    "description": "Instagram import",
+    "tags": ["animals","instagram"],
+    "source": "Imported (scraper)",
+    "date_collected": "2025-12-02",
+    "alt_text": "",
+    "file_size": "N/A",
+    "format": "WebP",
+    "dimensions": "N/A"
+  },
+  {
+    "filename": "565505991_18297760276251333_6589941304785108778_n.webp",
+    "category": "animals",
+    "title": "565505991_18297760276251333_6589941304785108778_n",
+    "description": "Instagram import",
+    "tags": ["animals","instagram"],
+    "source": "Imported (scraper)",
+    "date_collected": "2025-12-02",
+    "alt_text": "",
+    "file_size": "N/A",
+    "format": "WebP",
+    "dimensions": "N/A"
+  },
+  {
+    "filename": "568037922_18297760267251333_7114259375323644693_n.webp",
+    "category": "animals",
+    "title": "568037922_18297760267251333_7114259375323644693_n",
+    "description": "Instagram import",
+    "tags": ["animals","instagram"],
+    "source": "Imported (scraper)",
+    "date_collected": "2025-12-02",
+    "alt_text": "",
+    "file_size": "N/A",
+    "format": "WebP",
+    "dimensions": "N/A"
+  },
+  {
+    "filename": "586676761_18303270022251333_3000538715118012060_n.webp",
+    "category": "animals",
+    "title": "586676761_18303270022251333_3000538715118012060_n",
+    "description": "Instagram import",
+    "tags": ["animals","instagram"],
+    "source": "Imported (scraper)",
+    "date_collected": "2025-12-02",
+    "alt_text": "",
+    "file_size": "N/A",
+    "format": "WebP",
+    "dimensions": "N/A"
+  }
+]
