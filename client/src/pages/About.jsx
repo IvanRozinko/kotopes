@@ -5,12 +5,9 @@ export default function About() {
   const [currentSlide, setCurrentSlide] = useState(0)
 
   const dogImages = [
-    { url: '/images/instagram/animals/animals_dogs_playing.jpg', alt: 'Happy dogs playing' },
-    { url: '/images/instagram/animals/animals_cats.jpg', alt: 'Cute cats' },
-    { url: '/images/instagram/animals/527399943_18287774359251333_7106619665750548904_n.webp', alt: 'Dog from Instagram' },
-    { url: '/images/instagram/animals/565505991_18297760276251333_6589941304785108778_n.webp', alt: 'Fun moment' },
-    { url: '/images/instagram/animals/568037922_18297760267251333_7114259375323644693_n.webp', alt: 'Happy pet' },
-    { url: '/images/instagram/animals/586676761_18303270022251333_3000538715118012060_n.webp', alt: 'Pet gallery' }
+    { url: '/images/instagram/animals/Outside.webp', alt: 'Fun moment' },
+    { url: '/images/instagram/animals/Shurik.webp', alt: 'Happy pet' },
+    { url: '/images/instagram/animals/Sportive.webp', alt: 'Pet gallery' }
   ]
 
   const nextSlide = () => {
@@ -25,7 +22,7 @@ export default function About() {
     <div className="about-page">
       {/* Hero Section */}
       <section className="about-hero">
-        <h1>Про Котопес</h1>
+        <h1>Про КітПес</h1>
         <p>Найкращий готель для вашого улюбленця</p>
       </section>
 
@@ -34,7 +31,7 @@ export default function About() {
         <div className="intro-content">
           <h2>Ласкаво просимо!</h2>
           <p>
-            Зооготель «Котопес» — це сучасний та комфортний простір для вашого улюбленця. Ми забезпечуємо професійний догляд, безпеку та затишну атмосферу для всіх домашніх тварин.
+            Зооготель «Кітпес» — це сучасний та комфортний простір для вашого улюбленця. Ми забезпечуємо професійний догляд, безпеку та затишну атмосферу для всіх домашніх тварин.
           </p>
           <p>
             З 2015 року ми служимо улюбленцям та їх власникам, створюючи незабутні враження та забезпечуючи найвищий рівень сервісу.
@@ -105,7 +102,7 @@ export default function About() {
 
       {/* Carousel Section */}
       <section className="carousel-section">
-        <h2>Веселі моменти в Котопесі 🐕😸</h2>
+        <h2>Веселі моменти в Готелі 🐕😸</h2>
         <div className="carousel-container">
           <button className="carousel-btn prev" onClick={prevSlide}>❮</button>
           
@@ -114,6 +111,7 @@ export default function About() {
               src={dogImages[currentSlide].url} 
               alt={dogImages[currentSlide].alt}
               onError={(e) => {
+                console.log(e)
                 e.target.src = '/images/instagram/animals/animals_dogs_playing.jpg'
               }}
             />

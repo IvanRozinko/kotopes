@@ -65,9 +65,10 @@
   color: #333;
 }
 
-.phone-number {
+.phone-number a {
   font-size: 1.5rem;
   color: #FF8C42;
+  text-decoration: none; 
 }
 
 .phone-number strong {

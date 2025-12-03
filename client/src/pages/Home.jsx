@@ -7,12 +7,12 @@ export default function Home() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
-          <h1>ЗООГОТЕЛЬ «КІТПЕС»</h1>
+          <h1>ЗООГОТЕЛЬ «КітПес»</h1>
           <p className="hero-subtitle">Завжди цікаво та затишно!</p>
         </div>
         <img
           src="/images/originals/wp-content/uploads/2019/07/bgc_resize.jpg"
-          alt="Kotopes Hotel"
+          alt="KitPes Hotel"
           className="hero-image"
         />
       </section>
@@ -22,7 +22,7 @@ export default function Home() {
         <div className="contact-box">
           <h2>Зв'яжіться з нами</h2>
           <div className="phone-number">
-            <strong>+38 (068) 574 62 52</strong>
+            <a href="tel:+380685746252"  className="phone"><strong>+38 (068) 574 62 52</strong></a>
           </div>
         </div>
       </section>

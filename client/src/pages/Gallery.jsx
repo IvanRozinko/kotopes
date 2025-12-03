@@ -32,7 +32,7 @@ export default function Gallery() {
     <div className="gallery-page">
       <section className="gallery-header">
         <h1>Фотогалерея</h1>
-        <p>Галерея котелю для тварин Котопес</p>
+        <p>Галерея готелю для тварин Кітпес</p>
       </section>
 
       <section className="gallery-filters">
@@ -43,7 +43,7 @@ export default function Gallery() {
               className={`filter-btn ${selectedCategory === cat ? 'active' : ''}`}
               onClick={() => setSelectedCategory(cat)}
             >
-              {cat === 'all' ? 'Все' : cat.charAt(0).toUpperCase() + cat.slice(1)}
+              {cat === 'all' ? 'Всі' : cat.charAt(0).toUpperCase() + cat.slice(1)}
             </button>
           ))}
         </div>
