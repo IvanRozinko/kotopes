@@ -25,48 +25,12 @@
   },
   {
     "category": "animals",
-    "count": 6,
+    "count": 4,
     "images": [
       {
-        "filename": "animals_dogs_playing.jpg",
+        "filename": "Game break.webp",
         "category": "animals",
-        "title": "Dogs - Playing & Socializing",
-        "description": "Dogs having fun and socializing",
-        "tags": [
-          "dogs",
-          "animals",
-          "play",
-          "happy"
-        ],
-        "source": "Generated (Kotopes Brand)",
-        "date_collected": "2025-12-02",
-        "alt_text": "Dogs having fun and socializing",
-        "file_size": "30.46 KB",
-        "format": "JPEG",
-        "dimensions": "1080x1080"
-      },
-      {
-        "filename": "animals_cats.jpg",
-        "category": "animals",
-        "title": "Cats - Comfortable Care",
-        "description": "Comfortable accommodations for cats",
-        "tags": [
-          "cats",
-          "animals",
-          "comfort"
-        ],
-        "source": "Generated (Kotopes Brand)",
-        "date_collected": "2025-12-02",
-        "alt_text": "Comfortable accommodations for cats",
-        "file_size": "28.98 KB",
-        "format": "JPEG",
-        "dimensions": "1080x1080"
-      }
-      ,
-      {
-        "filename": "527399943_18287774359251333_7106619665750548904_n.webp",
-        "category": "animals",
-        "title": "527399943_18287774359251333_7106619665750548904_n",
+        "title": "Game break",
         "description": "Instagram import",
         "tags": ["animals","instagram"],
         "source": "Imported (scraper)",
@@ -77,9 +41,9 @@
         "dimensions": "N/A"
       },
       {
-        "filename": "565505991_18297760276251333_6589941304785108778_n.webp",
+        "filename": "Outside.webp",
         "category": "animals",
-        "title": "565505991_18297760276251333_6589941304785108778_n",
+        "title": "Outside",
         "description": "Instagram import",
         "tags": ["animals","instagram"],
         "source": "Imported (scraper)",
@@ -90,9 +54,9 @@
         "dimensions": "N/A"
       },
       {
-        "filename": "568037922_18297760267251333_7114259375323644693_n.webp",
+        "filename": "Shurik.webp",
         "category": "animals",
-        "title": "568037922_18297760267251333_7114259375323644693_n",
+        "title": "Shurik",
         "description": "Instagram import",
         "tags": ["animals","instagram"],
         "source": "Imported (scraper)",
@@ -103,9 +67,9 @@
         "dimensions": "N/A"
       },
       {
-        "filename": "586676761_18303270022251333_3000538715118012060_n.webp",
+        "filename": "Sportive.webp",
         "category": "animals",
-        "title": "586676761_18303270022251333_3000538715118012060_n",
+        "title": "Sportive",
         "description": "Instagram import",
         "tags": ["animals","instagram"],
         "source": "Imported (scraper)",
