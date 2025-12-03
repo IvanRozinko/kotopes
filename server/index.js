@@ -8,6 +8,9 @@ const app = express()
 app.use(cors())
 app.use(express.json())
 
+// Serve blog images from content folder
+app.use('/images/blog', express.static(path.join(__dirname, '..', 'content', 'blog', 'images')))
+
 // Serve public static files (images)
 app.use('/images', express.static(path.join(__dirname, '..', 'public', 'images')))
 
