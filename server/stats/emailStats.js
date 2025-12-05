@@ -32,7 +32,7 @@ function getLatestLogFile() {
   }
 
   const files = fs.readdirSync(logsDir)
-    .filter(f => f.startsWith('access.log') && (f.endsWith('.gz') || !f.includes('.')))
+    .filter(f => f.includes('kotopes.kr.ua.access.log') && (f.endsWith('.gz')))
     .sort()
     .reverse();
 
