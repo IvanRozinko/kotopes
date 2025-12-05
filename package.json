@@ -6,13 +6,12 @@
     "dev": "concurrently \"npm start\" \"cd client && npm run dev\"",
     "build": "cd client && npm run build",
     "build:prod": "npm run build && npm start",
-    "images:optimize": "node scripts/optimize-images.js"
+    "images:optimize": "node scripts/optimize-images.js",
+    "stats": "node server/stats/emailStats.js",
+    "stats:scheduler": "node server/stats/scheduler.js"
   },
   "dependencies": {
-    "sharp": "^0.32.4",
-    "express": "^4.22.0",
-    "cors": "^2.8.5",
-    "gray-matter": "^4.0.3"
+    "sharp": "^0.32.4"
   },
   "devDependencies": {
     "canvas": "^3.2.0",
